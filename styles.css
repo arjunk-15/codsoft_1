@@ -62,8 +62,8 @@ header p {
 }
 
 .nav-menu a:hover {
-    background: #4a9dab;
-    color: #ffffff;
+    background: #ffffff;
+    color: #000000;
 }
 
 /* Section Styling */
@@ -114,7 +114,7 @@ header p {
 
 .skills-list i {
     margin-right: 10px;
-    color: #6d83f2;
+    color: #4c4c4e;
 }
 
 /* Projects Section */
@@ -152,7 +152,7 @@ header p {
     display: inline-block;
     margin-top: 20px;
     padding: 10px 30px;
-    background: #56c8d8;
+    background: #3e3e3e;
     color: white;
     border-radius: 50px;
     text-decoration: none;
@@ -160,7 +160,7 @@ header p {
 }
 
 .btn:hover {
-    background: #4a9dab;
+    background: #494949;
 }
 
 /* Contact Section */
